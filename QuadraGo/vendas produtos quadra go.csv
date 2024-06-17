@@ -1,0 +1,11 @@
+Data da venda;Produto;Quantidade;Valor de custo;Valor de venda;Nome do vendedor;Nome do cliente;Endereço cliente;Telefone cliente;Entrega
+15/04/2024;coletes;10;109,9;199,9;Augusto;Victoria;Rua Sorocaba, 10, Votorantim;(15) 998765432;Retirada local
+19/04/2024;squeeze;2;20;39,9;Alessandra;Clotilde;Rua Isaltino Dias, 71, Sorocaba;(15) 997453219;Retirada local
+20/04/2024;camiseta;5;99,9;149,9;Augusto;Leticia;Rua São Bento, 9, Sorocaba;(15) 991234567;Retirada local
+22/04/2024;coletes;10;109,9;199,9;Alessandra;Murilo;Rua Rosina Salermo, 1, Sorocaba;(15) 995653782;Retirada local
+22/04/2024;squeeze;10;100;199,99;Alessandra;Renan;Rua Ana Carmela, 21, Salto;(11) 999232567;Correio
+22/04/2024;camiseta;1;19,99;29,99;Luisa;Miriam;Rua Padre Luiz, 49, Votorantim;(15) 992765481;Retirada local
+23/04/2024;squeeze;11;110;219,99;Luisa;Rogerio;Rua Um, 89, Porto Feliz;(11) 993456783;Correio
+23/04/2024;coletes;11;120,89;219,89;Alessandra;Pablo;Rua Afonso, 51, Sorocaba;(15) 996543106;Retirada local
+24/04/2024;camiseta;10;199,8;299,8;Augusto;Vinicius;Rua Landulfo, 74, Sorocaba;(15) 997234578;Retirada local
+24/04/2024;squeeze;6;60;119,7;Alessandra;Fábio;Rua Walter Rocha, 96, Votorantim ;(15) 999542610;Retirada local
